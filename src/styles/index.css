@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+.stick {
+    width: 25px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
